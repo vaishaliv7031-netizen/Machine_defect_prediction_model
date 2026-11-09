@@ -221,4 +221,6 @@ The application provides:
 
 **Vaishali**
 
+## Project URL: https://machinedefectpredictionmodel-drwuqttrts9ghuyhv7w4u.streamlit.app/
+
 AI/ML | Python | Machine Learning | FastAPI | Streamlit
